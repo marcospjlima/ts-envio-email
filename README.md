@@ -21,3 +21,7 @@
 	"message" : "Teste de e-mail nodejs com typescript"
 }
 ```
+
+> **Servidor de E-mail**
+
+> * Para o teste de envio e recebimento de e-mail, utilizei o site **https://mailtrap.io/**
